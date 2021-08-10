@@ -1,1 +1,10 @@
-' to install dependencies run 
+# To install run 'pip install -r requirements.txt'
+
+docopt 
+pillow 
+glob
+os
+sys
+openCV
+time
+matplotlib
